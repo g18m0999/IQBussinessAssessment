@@ -7,3 +7,10 @@ I went back to the REACT to develop the communication with the back-end and to a
 To optimize for performance the application, I used asynchronous programming, minimized the number of HTTP requests and also optimized the server-side rendering. 
 To the Database for perfomance, I went back to work on the data types and make sure the least amount memory used for each. 
 
+Instructions for setting up the database:
+MS SQL Server:
+  - Create Database
+  - Create FavouriteJokes Table consisting of (Id int IDENTITY(1,1) NOT NULL), (TheJoke nvarchar(250) NOT NULL), (LikedOn datetime2](7) NOT NULL)
+.Net Core Web API:
+  - Add/create connection string and add it to appsettings.json 
+  - use Scaffold-DbContext {connection string} Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
