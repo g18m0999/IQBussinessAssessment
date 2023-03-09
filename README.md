@@ -1,4 +1,4 @@
-# IQBussinessAssessment
+# IQBussiness Assessment - Chuck Norris Joke Generator
 
 The front-end of this application is built using REACT and the back-end is built using ASP.NET Core. 
 The way I went about it was to develop the REACT front-end for consuming the Chuck Norris API and generate the jokes, then went on to style the UI to be clean and user-friendly making use of bootstrap,font-awesome and jquery. I did this using Visual Studio Code
