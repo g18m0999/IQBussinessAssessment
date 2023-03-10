@@ -9,7 +9,7 @@ To the Database for perfomance, I went back to work on the data types and make s
 
 
 
-![screenshot](/Chuck Norris UI.JPG "screenshot the UI")
+![screenshot](Chuck Norris UI.JPG "screenshot the UI")
 
 
 Instructions for setting up the database:
