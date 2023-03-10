@@ -6,7 +6,7 @@ From there I then develop the Asp.Net Core Web API application on Visual Studio 
 I went back to the REACT to develop the communication with the back-end and to add to display the favourite jokes in a user friendly way. 
 To optimize for performance the application, I used asynchronous programming, minimized the number of HTTP requests and also optimized the server-side rendering. 
 To the Database for perfomance, I went back to work on the data types and make sure the least amount memory used for each. 
-
+Note: The .Net Core is in zip format
 
 
 ![Chuck Norris UI](https://user-images.githubusercontent.com/36505493/224235189-a42bc4ec-ab62-4ec6-8263-3fc3efd85d09.jpg)
