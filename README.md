@@ -19,3 +19,4 @@ MS SQL Server:
 .Net Core Web API:
   - Add/create connection string and add it to appsettings.json 
   - use Scaffold-DbContext {connection string} Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+  - Add the connection string as a SQL service on the program.cs file 
