@@ -9,7 +9,7 @@ To the Database for perfomance, I went back to work on the data types and make s
 
 
 
-![screenshot](Chuck Norris UI.JPG "screenshot the UI")
+![Chuck Norris UI](https://user-images.githubusercontent.com/36505493/224235189-a42bc4ec-ab62-4ec6-8263-3fc3efd85d09.jpg)
 
 
 Instructions for setting up the database:
