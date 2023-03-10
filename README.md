@@ -7,6 +7,11 @@ I went back to the REACT to develop the communication with the back-end and to a
 To optimize for performance the application, I used asynchronous programming, minimized the number of HTTP requests and also optimized the server-side rendering. 
 To the Database for perfomance, I went back to work on the data types and make sure the least amount memory used for each. 
 
+
+
+![screenshot](/Chuck Norris UI.JPG "screenshot the UI")
+
+
 Instructions for setting up the database:
 MS SQL Server:
   - Create Database
